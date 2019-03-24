@@ -5,6 +5,7 @@ Attracting new customers to your innovative and lucrative business might be easy
 
 Churn is a disease which has to be proactively eradicated before it affects your business. A lot of companies who have been successful in the past have fallen in a matter of years because they couldn't manage churn well. 
 
+You can read more about it in my [blog](https://medium.com/@nirupanda.296/customer-churn-prediction-for-an-imaginary-music-streaming-service-using-spark-1a3d7806c676?source=friends_link&sk=a2e911112c034ac16b8c9c945ebc5543).
 
 ![Before](churn_companies.png)
 ![After](churn_companies_2.png)
